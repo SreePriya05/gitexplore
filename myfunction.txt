@@ -5,4 +5,4 @@ Three function - I have added unnecessary function.
 
 added a chart function in our branch.
 
-added a code for doing logout.
+
